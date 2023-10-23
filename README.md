@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Michaelkrogholm@gmail.com**
 
-- 📄 Know about my experiences [Work for Urban-Hald : https://urbanhald.dk/shop/frontpage.html and worked for Maulund: https://www.mobilcovers.dk/](Work for Urban-Hald : https://urbanhald.dk/shop/frontpage.html and worked for Maulund: https://www.mobilcovers.dk/)
+- 📄 Know about my experiences [Work for Urban-Hald : https://urbanhald.dk/shop/frontpage.html and worked for Maulund: https://www.mobilcovers.dk/]
 
 - ⚡ Fun fact **I have won a car by holding my hand on it for 25 hours**
 
