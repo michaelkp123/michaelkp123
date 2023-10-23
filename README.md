@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkp123&show_icons=true&locale=en&layout=compact" alt="michaelkp123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelkp123&show_icons=true&locale=en" alt="michaelkp123" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelkp123&" alt="michaelkp123" /></p>
