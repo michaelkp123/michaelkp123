@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Shopify app development**
 
-- 👨‍💻 All of my projects are available at [https://eaamichael.dk/](https://eaamichael.dk/)
+- 👨‍💻 All of my projects are available at [http://michaelkp.dk/](http://michaelkp.dk/)
 
 - 📫 How to reach me **Michaelkrogholm@gmail.com**
 
